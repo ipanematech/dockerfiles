@@ -1,0 +1,9 @@
+/log
+/tmp
+!/tmp/reports
+/coverage
+/node_modules
+/storage/*
+*.dump
+.git
+.gitignore
